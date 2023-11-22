@@ -26,8 +26,8 @@ const myPath2 = path.resolve('game', 'cocos', 'lean.js');
 console.log(myPath2);
 // /Users/phuongduy/Desktop/js-camp-eno/www/game/cocos/lean.js
 
-// __dirname
+// __dirname - absolute
 console.log(__dirname);
 
-// __filename
+// __filename - absolute
 console.log(__filename);
